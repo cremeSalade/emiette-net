@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords"
+        content="jeux vidéo, jeux, jeu vidéo, narration, narration vidéoludique, game design, narrative design" />
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ .Site.Params.description }}">
+
+    {{ with resources.Get "images/clouds.jpg" }}
+    {{ $clouds := .Resize "1800x webp q75" }}
+    <style>
+        :root {
+            --clouds-background: url("{{ $clouds.RelPermalink }}");
+        }
+    </style>
+    {{ end }}
+
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+
+<body>
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+</body>
+
+</html>
