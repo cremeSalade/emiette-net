@@ -4,6 +4,9 @@ languageCode = 'fr-FR'
 title = "Émi Lefèvre"
 timeZone = 'Europe/Paris'
 
+disableKinds = ["taxonomy", "term"]
+
+
 [params]
   description = "Site de Émi Lefèvre, gamedev generalist."
 
