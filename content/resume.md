@@ -10,7 +10,7 @@ title = 'Émi Lefèvre — CV'
 
 ### [Caravan SandWitch](https://caravansandwitch.com/) - cofondatrice, direction créative, gamedev généraliste
 
-Projet lancé en 2021 avec [Adrien Lucas](https://se.linkedin.com/in/adrien-lucas), sorti en septembre 2024 sur **Steam, Nintendo Switch et PlayStation 5**. Gestion d'une équipe de **15 personnes**.
+Projet lancé en 2021, sorti en septembre 2024 sur **Steam, Nintendo Switch et PlayStation 5**. Gestion d'une équipe de **15 personnes**.
 
 - **Direction créative** et prototypage initial.
 - **Game design**, level design, narrative design, quest design et world design.
