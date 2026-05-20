@@ -1,6 +1,9 @@
 name = "emiette-net"
 compatibility_date = "2026-05-20"
 
+workers_dev = true
+preview_urls = true
+
 [build]
 command = "hugo --gc --minify"
 
