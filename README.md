@@ -1,2 +1,3 @@
-# emiette-net
-Personal website
+# emiette.net
+
+Un site pour héberger en autres mon CV !
