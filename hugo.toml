@@ -1,3 +1,12 @@
-baseURL = 'https://emiette.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://emiette.net/"
+defaultContentLanguage = 'fr'
+languageCode = 'fr-FR'
+title = "Émi Lefèvre"
+timeZone = 'Europe/Paris'
+
+[params]
+  description = "Site de Émi Lefèvre, gamedev generalist."
+
+[params.social]
+  email = 'emi@planetoast.com'
+  linkedin = 'https://www.linkedin.com/in/emi-le/'

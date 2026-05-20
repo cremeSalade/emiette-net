@@ -1,0 +1,6 @@
+
+{{- with site.Params.social.email -}}
+  <a href="mailto:{{ . }}">{{ . }}</a>
+{{- else -}}
+  <span class="missing-mail">email missing from config</span>
+{{- end -}}
