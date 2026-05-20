@@ -43,3 +43,21 @@ a {
   color: #F24484;
   text-decoration: none;
 }
+
+a:link
+{
+	color: #F24484;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #c74a78;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #ff70a5;
+	text-decoration: none;
+}
