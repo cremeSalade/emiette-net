@@ -20,7 +20,7 @@ Bon, c'est sans compter tout ce qui va avec **gérer un studio et un projet**. J
 
 Mes outils de travail sur Caravan Sandwitch, c'était surtout **Unreal Engine 5** (son éditeur, son blueprint, son C++, ses nodes Blueprint, ses crash), **Blender, Notion, Figma, Gitlab, Python, Twine**. Ça bidouille un max.
 
-Si vous voulez m'entendre raconter des trucs, je suis intervenue à pas mal de reprises dans des conférences et interviews. Notamment sur le [level design et world design à Toulouse gamedev](https://www.youtube.com/watch?v=vsKJmJjsRk0) et sur [mon parcour et les Pégases lors de mon passage à Origami](https://www.youtube.com/watch?v=386XlRXUTUU) (on en a eu deux ? C'est un peu fou fou).
+Si vous voulez m'entendre raconter des trucs, je suis intervenue à pas mal de reprises dans des conférences et interviews. Notamment sur le [level design et world design à Toulouse gamedev](https://www.youtube.com/watch?v=vsKJmJjsRk0) et sur [mon parcour et les Pégases lors de mon passage à Origami](https://www.youtube.com/watch?v=386XlRXUTUU) (on a eu deux Pégases ? C'est un peu fou fou).
 
 Aussi, **je n'ai pas été toute seule sur le projet**, n'hésitez pas à aller chercher toutes les personnes talentueuses de l'équipe dans [les crédits du jeu !](https://www.mobygames.com/game/230447/caravan-sandwitch/credits/windows/)
 
