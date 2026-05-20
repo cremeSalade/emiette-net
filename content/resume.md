@@ -43,7 +43,7 @@ Projet lancé en 2021, sorti en septembre 2024 sur **Steam, Nintendo Switch et P
 
 - Intervention sur le [level design et world design à Toulouse GameDev](https://www.youtube.com/watch?v=vsKJmJjsRk0).
 - Interview chez [Origami](https://www.youtube.com/watch?v=386XlRXUTUU) autour de mon parcours, de Caravan SandWitch et des [deux Pégases](https://www.bfmtv.com/tech/gaming/pegases-2025-du-jeu-video-prince-of-persia-et-caravan-sandwitch-en-tete-des-nominations_AN-202502030448.html) remportés.
-- Autres conférences et interview à Spawn, Gameconf, Lyon game dev, ICCARE, radio Clapas.
+- Autres conférences et interview à Spawn, Gameconf, Lyon game dev, ICCARE, radio Clapas, l'école des Gobelin, le Forum de l'Image, Women in Games, Game Changers, Gaymer Festival.
 
 ## Activités actuelles
 
