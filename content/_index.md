@@ -16,7 +16,7 @@ Mais j'ai aussi beaucoup fait des trucs **artistiques**, les cinématiques, les 
 Aussi il y avait tout les trucs **techniques**, le tooling, le prototypage de features de gameplay, le DevOps et les pipelines de build et de déploiement et de localisation.
 Voir même du **marketing** et du **community managment** à la fin !
 
-Bon, c'est sans compter tout ce qui va avec **gérer un studio et un projet**. J'ai fait de la gestion d'entreprise, de la gestion d'équipe (jusqu'à 15 personnes !), du recrutement, de planning agile, gérer les relations avec l'éditeur, les partenaires, les financements, les first party.
+Bon, c'est sans compter tout ce qui va avec **gérer un studio et un projet**. J'ai fait de la gestion d'entreprise, de la gestion d'équipe (jusqu'à 15 personnes !), du recrutement, de planning agile, du SCRUM, gérer les relations avec l'éditeur, les partenaires, les financements, les first party.
 
 Mes outils de travail sur Caravan Sandwitch, c'était surtout **Unreal Engine 5** (son éditeur, son **C++**, ses nodes **Blueprint**, ses crash), **Blender, Notion, Figma, Gitlab, Python, Twine**. Ça bidouille un max.
 
