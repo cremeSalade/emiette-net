@@ -43,6 +43,10 @@ h1 {
   color: #b83c7a;
 }
 
+h2, h3 {
+  font-family: Garamond, Courier, Helvetica, Arial, serif;
+}
+
 p {
   font-size: 1.1rem;
   line-height: 1.4;

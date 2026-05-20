@@ -33,13 +33,16 @@ Projet lancé en 2021, sorti en septembre 2024 sur **Steam, Nintendo Switch et P
 ## Formation
 
 - **Prépa scientifique**, 2017-2019.
-- **École d'ingénieur** ENSGSI, 2019-2021.
-- **Stage** à [Sorbonne Université sur le projet Ikigai](https://www.sorbonne-universite.fr/actualites/ikigai-la-plateforme-de-jeux-video-qui-transforme-lapprentissage), comme **développeuse gameplay Unity/C#** sur le jeu éducatif [Stranger Fields](https://ikigai.games/games/gameDetails/strangerfields).
+  - Cycle Préparatoire Polytechnique de Nancy.
+- **École d'ingénieur**, 2019-2021.
+  - ENSGSI, pendant 1 an et demi avant de lancer Caravan Sandwitch.
+- **Stage** à [Sorbonne Université sur le projet Ikigai](https://www.sorbonne-universite.fr/actualites/ikigai-la-plateforme-de-jeux-video-qui-transforme-lapprentissage), 2019
+  - En tant que **développeuse gameplay Unity/C#** sur le jeu éducatif [Stranger Fields](https://ikigai.games/games/gameDetails/strangerfields).
 
 ## Conférences et interviews
 
 - Intervention sur le [level design et world design à Toulouse GameDev](https://www.youtube.com/watch?v=vsKJmJjsRk0).
-- Interview chez [Origami](https://www.youtube.com/watch?v=386XlRXUTUU) autour du parcours, de Caravan SandWitch et des [Pégases](https://www.bfmtv.com/tech/gaming/pegases-2025-du-jeu-video-prince-of-persia-et-caravan-sandwitch-en-tete-des-nominations_AN-202502030448.html).
+- Interview chez [Origami](https://www.youtube.com/watch?v=386XlRXUTUU) autour de mon parcours, de Caravan SandWitch et des [deux Pégases](https://www.bfmtv.com/tech/gaming/pegases-2025-du-jeu-video-prince-of-persia-et-caravan-sandwitch-en-tete-des-nominations_AN-202502030448.html) remportés.
 - Autres conférences et interview à Spawn, Gameconf, Lyon game dev, ICCARE, radio Clapas.
 
 ## Activités actuelles
