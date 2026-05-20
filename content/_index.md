@@ -24,7 +24,7 @@ Si vous voulez m'entendre raconter des trucs, je suis intervenue à pas mal de r
 
 Aussi, **je n'ai pas été toute seule sur le projet**, n'hésitez pas à aller chercher toutes les personnes talentueuses de l'équipe dans [les crédits du jeu !](https://www.mobygames.com/game/230447/caravan-sandwitch/credits/windows/)
 
-Autrement, j'ai suivi **une prépa scientifique** en 2017-2019 et j'ai fait 1 an et demi **d'école d'ingénieur** à l'ENSGSI avant de la quitter pour lancer le projet de jeu. J'ai donc en principe un bac+3 en ingénieurie. Pendant ces études j'ai fait un stage à la [Sorbonne dans le projet Ikigai](https://www.sorbonne-universite.fr/actualites/ikigai-la-plateforme-de-jeux-video-qui-transforme-lapprentissage) en tant que **développeuse gameplay unity et C#** sur des jeux éducatifs.
+Autrement, j'ai suivi **une prépa scientifique** en 2017-2019 et j'ai fait 1 an et demi **d'école d'ingénieur** à l'ENSGSI avant de la quitter pour lancer le projet de jeu. J'ai donc en principe un bac+3 en ingénieurie. Pendant ces études j'ai fait un stage à la [Sorbonne dans le projet Ikigai](https://www.sorbonne-universite.fr/actualites/ikigai-la-plateforme-de-jeux-video-qui-transforme-lapprentissage) en tant que **développeuse gameplay unity et C#** sur des jeux éducatifs, par exemple [Stranger Fields](https://ikigai.games/games/gameDetails/strangerfields).
 
 En ce moment, je travaille sur mes projets persos (peut-être d'autres jeux, certainement plus petits que Caravan Sandwitch), je prends des photos, je mets en place des serveurs avec **Proxmox** et **NixOS**, je fais des conférences, et je suis assez **militante dans des assos de soutien communautaire trans** sur Montpellier et dans l'amélioration de la prise en charge des personnes trans dans le médico-social.
 
@@ -34,4 +34,4 @@ Merci et à très vite !
 
 Émi :)
 
-
+*PS: Si vous voulez lire quelque chose qui ressemble davantage à un CV, [c'est ici.]({{< ref "resume" >}})*
