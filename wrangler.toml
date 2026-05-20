@@ -6,4 +6,3 @@ command = "hugo --gc --minify"
 
 [assets]
 directory = "./public"
-binding = "ASSETS"
