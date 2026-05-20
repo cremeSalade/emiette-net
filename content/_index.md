@@ -28,7 +28,7 @@ Autrement, j'ai suivi **une prépa scientifique** en 2017-2019 et j'ai fait 1 an
 
 En ce moment, je travaille sur mes projets persos (peut-être d'autres jeux, certainement plus petits que Caravan Sandwitch), je prends des photos, je mets en place des serveurs avec **Proxmox** et **NixOS**, je fais des conférences, et je suis assez **militante dans des assos de soutien communautaire trans** sur Montpellier et dans l'amélioration de la prise en charge des personnes trans dans le médico-social.
 
-Si vous voulez me contacter, le mieux est de m'envoyer un mail à {{< mail >}}. Sinon vous pouvez me croiser de temps en temps sur **Montpellier**, dans un bar associatif ou un hackerspace.
+Si vous voulez me contacter, le mieux est de m'envoyer un mail à {{< mail >}}. Sinon vous pouvez me croiser de temps en temps sur **Montpellier**, dans un bar associatif ou un hackerspace. Ou alors possiblement linkedin ou blue sky.
 
 Merci et à très vite !
 
