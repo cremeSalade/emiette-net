@@ -3,8 +3,8 @@ body
 	max-width: 1200px;
 	margin: auto;
 	background-color: #c4babc;
-	font-size: 1rem;
-	font-family: Calibri, Helvetica, Arial, sans-serif;
+	font-size: 13pt;
+	font-family: Calibri, Georgia, Helvetica, Arial, sans-serif;
 
 	text-align: justify;
 	color: #2a3d4e;
@@ -84,7 +84,6 @@ a:focus-visible {
   body {
     max-width: none;
     margin: 0;
-    background: white;
     color: #2a3d4e;
     font-size: 11pt;
     text-align: left;
